@@ -33,5 +33,3 @@ This platform allows patients to register, log in, and book appointments with do
 - **Server:** XAMPP (Apache + MySQL)  
 
 ---
-
-## 📂 Project Structure
